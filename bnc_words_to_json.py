@@ -123,7 +123,7 @@ def classify_words_to_json(input_file, output_alpha_json, output_non_alpha_json)
 
 # 使用示例
 input_file = 'all.num.o5'
-output_alpha_json = 'alpha_words.json'
+output_alpha_json = 'wordlist.json'
 output_non_alpha_json = 'non_alpha_words.json'
 
 classify_words_to_json(input_file, output_alpha_json, output_non_alpha_json)
