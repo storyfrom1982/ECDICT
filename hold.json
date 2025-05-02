@@ -1,0 +1,524 @@
+[
+  {
+    "original": "en",
+    "translation": "zh",
+    "word": "the",
+    "lemma": "the",
+    "phonetic": "/ðə/",
+    "pinyin": [
+      "di"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "definite article used to refer to a particular person or thing",
+        "translation": "定冠词，用于特指某个人或事物"
+      }
+    ],
+    "pos": [
+      {
+        "type": "particle",
+        "pinyin": 0,
+        "original": [
+          "used before singular or plural nouns to indicate specificity"
+        ],
+        "translation": [
+          "用于单数或复数名词前表示特指"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "en",
+    "translation": "zh",
+    "word": "hold",
+    "lemma": "hold",
+    "phonetic": "/hoʊld/",
+    "pinyin": [
+      "hou"
+    ],
+    "inflections": [
+      {
+        "type": "past-tense",
+        "forms": "held",
+        "phonetic": "/hɛld/"
+      },
+      {
+        "type": "past-participle",
+        "forms": "held",
+        "phonetic": "/hɛld/"
+      },
+      {
+        "type": "present-participle",
+        "forms": "holding",
+        "phonetic": "/ˈhoʊldɪŋ/"
+      },
+      {
+        "type": "third-person",
+        "forms": "holds",
+        "phonetic": "/hoʊldz/"
+      }
+    ],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "to have, keep, or maintain control, possession, or support over someone or something; extended to gathering/conducting",
+        "translation": "持有、保持、控制或支撑某人/某物；引申为聚会/举行"
+      }
+    ],
+    "pos": [
+      {
+        "type": "verb",
+        "pinyin": 0,
+        "original": [
+          "to have or keep in the hand",
+          "to bear, sustain, or support",
+          "to keep in a specified state or position"
+        ],
+        "translation": [
+          "握住；抓住",
+          "支撑；承受",
+          "使保持某种状态"
+        ]
+      },
+      {
+        "type": "noun",
+        "pinyin": 0,
+        "original": [
+          "an act or manner of grasping something",
+          "a place for storing cargo on a ship",
+          "dominance or control over something"
+        ],
+        "translation": [
+          "握住；控制",
+          "货舱",
+          "支配力"
+        ]
+      },
+      {
+        "type": "adjective",
+        "pinyin": 0,
+        "original": [
+          "reserved for a specific purpose"
+        ],
+        "translation": [
+          "保留的；预留的"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "坚持",
+    "lemma": "堅持",
+    "phonetic": "",
+    "pinyin": [
+      "jian chi"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "持续努力的保持稳定且坚固的状态以克服阻力",
+        "translation": "persistently maintaining a stable and resilient state to overcome resistance"
+      }
+    ],
+    "pos": [
+      {
+        "type": "verb",
+        "pinyin": 0,
+        "original": [
+          "坚决保持、维护或进行",
+          "固执地保持某种状态"
+        ],
+        "translation": [
+          "persist in; uphold; insist on",
+          "stubbornly maintain a certain state"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "长",
+    "lemma": "長",
+    "phonetic": "",
+    "pinyin": [
+      "chang",
+      "zhang"
+    ],
+    "inflections": [
+      {
+        "type": "variant-character",
+        "forms": "镸"
+      }
+    ],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "两点之间的距离大（与'短'相对）",
+        "translation": "long (as opposed to 'short')"
+      },
+      {
+        "pinyin": 1,
+        "original": "生长；成长",
+        "translation": "grow; develop"
+      }
+    ],
+    "pos": [
+      {
+        "type": "adjective",
+        "pinyin": 0,
+        "original": [
+          "空间或时间上两点之间的距离大",
+          "长度"
+        ],
+        "translation": [
+          "long in space or time",
+          "length"
+        ]
+      },
+      {
+        "type": "verb",
+        "pinyin": 1,
+        "original": [
+          "生物体发育",
+          "增加；增进"
+        ],
+        "translation": [
+          "organism growth",
+          "increase; enhance"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "en",
+    "translation": "zh",
+    "word": "on",
+    "lemma": "on",
+    "phonetic": "/ɒn/",
+    "pinyin": [
+      "ang"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "indicates a dependent relationship between two entities (e.g., object & surface, time & event, individual & group)",
+        "translation": "表示两者之间的依附关系（如物体与表面、时间与事件、个体与群体等）"
+      }
+    ],
+    "pos": [
+      {
+        "type": "preposition",
+        "pinyin": 0,
+        "original": [
+          "physically in contact with and supported by a surface",
+          "operating or functioning"
+        ],
+        "translation": [
+          "在...上面，与表面接触并被支撑",
+          "在操作或运行中"
+        ]
+      },
+      {
+        "type": "adverb",
+        "pinyin": 0,
+        "original": [
+          "in or into a position of being attached to or covering a surface"
+        ],
+        "translation": [
+          "处于或进入附着或覆盖表面的位置"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "en",
+    "translation": "zh",
+    "word": "apple",
+    "lemma": "apple",
+    "phonetic": "/ˈæpəl/",
+    "pinyin": [
+      "ai pou"
+    ],
+    "inflections": [
+      {
+        "type": "plural",
+        "forms": "apples",
+        "phonetic": "/ˈæpəlz/"
+      }
+    ],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "a round fruit with red, yellow, or green skin and firm white flesh",
+        "translation": "一种圆形水果，表皮呈红色、黄色或绿色，果肉白色且坚实"
+      }
+    ],
+    "pos": [
+      {
+        "type": "noun",
+        "pinyin": 0,
+        "original": [
+          "the round fruit of a tree of the rose family",
+          "the tree bearing this fruit"
+        ],
+        "translation": [
+          "蔷薇科树木的圆形果实",
+          "结这种果实的树"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "en",
+    "translation": "zh",
+    "word": "make",
+    "lemma": "make",
+    "phonetic": "/meɪk/",
+    "pinyin": [
+      "mei ke"
+    ],
+    "inflections": [
+      {
+        "type": "past-tense",
+        "forms": "made",
+        "phonetic": "/meɪd/"
+      },
+      {
+        "type": "past-participle",
+        "forms": "made",
+        "phonetic": "/meɪd/"
+      },
+      {
+        "type": "present-participle",
+        "forms": "making",
+        "phonetic": "/ˈmeɪkɪŋ/"
+      },
+      {
+        "type": "third-person",
+        "forms": "makes",
+        "phonetic": "/meɪks/"
+      }
+    ],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "form (something) by putting parts together or combining substances",
+        "translation": "通过组合部件或物质来形成（某物）"
+      }
+    ],
+    "pos": [
+      {
+        "type": "verb",
+        "pinyin": 0,
+        "original": [
+          "construct or create something",
+          "cause to be or become",
+          "compel someone to do something"
+        ],
+        "translation": [
+          "构建或创造某物",
+          "使成为或变成",
+          "强迫某人做某事"
+        ]
+      },
+      {
+        "type": "noun",
+        "pinyin": 0,
+        "original": [
+          "the manufacturer or trade name of a product",
+          "the structure or composition of something"
+        ],
+        "translation": [
+          "产品的制造商或商标名称",
+          "某物的结构或组成"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "重",
+    "lemma": "重",
+    "phonetic": "",
+    "pinyin": [
+      "zhong",
+      "chong"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "分量大；比重大",
+        "translation": "heavy; weighty"
+      },
+      {
+        "pinyin": 1,
+        "original": "重复；再",
+        "translation": "again; repeat"
+      }
+    ],
+    "pos": [
+      {
+        "type": "adjective",
+        "pinyin": 0,
+        "original": [
+          "分量大",
+          "程度深"
+        ],
+        "translation": [
+          "heavy",
+          "deep (degree)"
+        ]
+      },
+      {
+        "type": "adverb",
+        "pinyin": 1,
+        "original": [
+          "再次",
+          "层"
+        ],
+        "translation": [
+          "again",
+          "layer"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "苹果",
+    "lemma": "蘋果",
+    "phonetic": "",
+    "pinyin": [
+      "ping guo"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "一种常见的水果，圆形，味甜或略酸",
+        "translation": "a common fruit, round in shape, sweet or slightly sour in taste"
+      }
+    ],
+    "pos": [
+      {
+        "type": "noun",
+        "pinyin": 0,
+        "original": [
+          "蔷薇科苹果属植物的果实",
+          "苹果树"
+        ],
+        "translation": [
+          "fruit of the Malus genus in the rose family",
+          "apple tree"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "乐",
+    "lemma": "樂",
+    "phonetic": "",
+    "pinyin": [
+      "le",
+      "yue"
+    ],
+    "inflections": [],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "快乐；高兴",
+        "translation": "happy; joyful"
+      },
+      {
+        "pinyin": 1,
+        "original": "音乐",
+        "translation": "music"
+      }
+    ],
+    "pos": [
+      {
+        "type": "adjective",
+        "pinyin": 0,
+        "original": [
+          "愉快的",
+          "乐于"
+        ],
+        "translation": [
+          "happy",
+          "willing to"
+        ]
+      },
+      {
+        "type": "noun",
+        "pinyin": 1,
+        "original": [
+          "有节奏的、和谐的声音",
+          "乐器"
+        ],
+        "translation": [
+          "rhythmic, harmonious sounds",
+          "musical instrument"
+        ]
+      }
+    ]
+  },
+  {
+    "original": "zh",
+    "translation": "en",
+    "word": "医",
+    "lemma": "醫",
+    "phonetic": "",
+    "pinyin": [
+      "yi"
+    ],
+    "inflections": [
+      {
+        "type": "variant-character",
+        "forms": "毉"
+      }
+    ],
+    "essential_meaning": [
+      {
+        "pinyin": 0,
+        "original": "治病；治病的人",
+        "translation": "to treat illness; medical practitioner"
+      }
+    ],
+    "pos": [
+      {
+        "type": "noun",
+        "pinyin": 0,
+        "original": [
+          "治病的人",
+          "医学"
+        ],
+        "translation": [
+          "medical practitioner",
+          "medicine (field of study)"
+        ]
+      },
+      {
+        "type": "verb",
+        "pinyin": 0,
+        "original": [
+          "治疗疾病"
+        ],
+        "translation": [
+          "to treat illness"
+        ]
+      }
+    ]
+  }
+]
