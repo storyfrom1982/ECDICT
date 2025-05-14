@@ -17,7 +17,6 @@ def convert_ecdict_to_schema(csv_path, output_json):
             if entry:
                 result.append(entry)
     
-    print(f"word converted: {len(result)}")
     # 写入JSON文件
     with open(output_json, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
@@ -28,15 +27,20 @@ def process_english_entry(row):
     if not word:
         return None
     
+    # 处理原始英文释义中的换行符
+    english = row.get('definition', '').replace('\\n', '\n').strip()
+    # 处理中文释义中的换行符
+    chinese = row.get('translation', '').replace('\\n', '\n').strip()
+    
     return {
         "word": word,
         "lemma": get_lemma(row),
         "phonetic": row.get('phonetic', '').strip(),
-        "pinyin": [],  # 英文单词保持空数组
+        "pinyin": [],
         "meaning": [{
-            "pinyin": 0,  # 英文固定为0
-            "english": row.get('definition', '').strip(),
-            "chinese": row.get('translation', '').strip()
+            "pinyin": 0,
+            "english": english,
+            "chinese": chinese
         }]
     }
 
